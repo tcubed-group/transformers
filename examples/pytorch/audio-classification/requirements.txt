@@ -1,5 +1,5 @@
-datasets>=1.14.0
+datasets>=5.1.0
 evaluate
 librosa
 torchaudio
-torch>=2.13.0
+torch>=2.15.0

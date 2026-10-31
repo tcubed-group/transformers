@@ -1,5 +1,5 @@
 tensorflow<2.16
-keras<3.11
+keras<3.16
 tensorboard
 scikit-learn
 seqeval
@@ -14,9 +14,9 @@ streamlit
 elasticsearch
 nltk
 pandas
-datasets >= 1.13.3
+datasets >= 5.0.1
 fire
-pytest<8.0.1
+pytest<9.2.1
 conllu
 sentencepiece != 0.1.92
 protobuf
